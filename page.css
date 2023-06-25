@@ -1,0 +1,53 @@
+header {
+    background-color:purple;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
+  
+  footer {
+    background-color: grey;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  *{
+    paddding:10px;
+    margin:10px;
+}
+html{
+    background-color: pink;
+
+}
+body{
+    background-color:white; 
+}
+nav{
+    background:rgb(118, 121, 124);;
+    margin: 20px;
+    overflow: auto;
+      
+}
+ul{
+    list-style: none;  
+}
+a{
+   text-decoration: none;
+}
